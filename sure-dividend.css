@@ -1,1 +1,41 @@
+#header {
+    height: 50px;
+    background: #3f8071;
+    color: #fff;
+  }
+  
+  #branding h1 {
+    color: #fff;
+  }
 
+  #site-name {
+    color: #fff;
+  }
+  
+  a:link,
+  a:visited {
+    color: #3f8071;
+  }
+  
+  /* This is the secondary header that only shows up when
+  you're looking within a specific app */
+  div.breadcrumbs {
+    background: #3f8071;
+  }
+  
+  .module caption,
+  .inline-group h2 {
+    background: #3f8071;
+  }
+  
+  .button,
+  input[type="submit"],
+  input[type="button"],
+  .submit-row input,
+  a.button {
+    background: #3f8071;
+  }
+  
+  .submit-row input.default {
+    background: #3f8071;
+  }
